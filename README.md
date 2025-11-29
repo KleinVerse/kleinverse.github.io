@@ -1,22 +1,30 @@
 # Our Missions
 
-# Current Projects
+## Current Projects
 
-## Nontrivial Higher Dimensional Topological Manifolds
+### Nontrivial Higher Dimensional Topological Manifolds
 
-## PassGPT for Password Recovery and Protection
-
-# For Investors
+### PassGPT for Password Recovery and Protection
 
 ## Road Map
+
+### Phase 1
+
+### Phase 2
+
+### Phase 3
+
+### Phase 4
+
+# For Investors
 
 # About Us
 
 ## Founder
 
-## Contact
+## Company Info
 
-Please visit us on https://kleinverse.io/contact
-
-### Mailing Address
+* Kleinverse AI, Inc. *
 701 Ellicott St, Buffalo, NY 14203-1011
+https://kleinverse.io
+EIN: 39-4489228
