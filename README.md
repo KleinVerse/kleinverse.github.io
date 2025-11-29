@@ -6,17 +6,14 @@
 
 ### Nontrivial Higher Dimensional Topological Manifolds
 
-### PassGPT for Password Recovery and Protection
+### Multicultural PassGPT for Password Recovery and Protection
 
 ## Road Map
 
-### Phase 1
-
-### Phase 2
-
-### Phase 3
-
-### Phase 4
+* Phase 1
+* Phase 2
+* Phase 3
+* Phase 4
 
 # For Investors
 
