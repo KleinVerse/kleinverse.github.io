@@ -24,7 +24,10 @@
 
 ## Company Info
 
-* Kleinverse AI, Inc. *
+**Kleinverse AI, Inc.**
+
 701 Ellicott St, Buffalo, NY 14203-1011
+
 https://kleinverse.io
+
 EIN: 39-4489228
