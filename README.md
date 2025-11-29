@@ -2,6 +2,10 @@
 
 ## Key Technology
 
+### Adversarial Laerning Models
+
+### Economic Theory
+
 ## Current Projects
 
 ### Nontrivial Higher Dimensional Topological Manifolds
@@ -20,6 +24,8 @@
 # About Us
 
 ## Founder
+
+Ted is a Ph.D. economist that has engaged in theoretical economics and information technologies such as blockchain and machine learning.
 
 ## Company Info
 
