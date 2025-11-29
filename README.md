@@ -30,6 +30,6 @@
 <br>
 701 Ellicott St, Buffalo, NY 14203-1011
 <br>
-https://kleinverse.io
+[https://kleinverse.io](https://kleinverse.io)
 <br>
 EIN: 39-4489228
